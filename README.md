@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Yash
 
-<!--
-**YashJagadale/YashJagadale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student passionate about building projects,
+learning new technologies, and improving my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+💻 **Languages**
+- Java
+- C
+- C++
+- Python
+
+🌐 **Web Development**
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB
+
+---
+
+## 🚀 Projects
+
+🎬 **Movie Rating System**  
+🍽️ **SmartDine – QR Restaurant Ordering System**  
+🎮 **Game Development Projects**  
+🌐 **Web Development Projects**
+
+---
+
+## 📚 Currently Learning
+
+- Git & GitHub
+- MERN Stack
+- Backend Development
+- Database Management
+
+---
+
+## 🎯 Goals
+
+🚀 Become a skilled Full-Stack Developer  
+💡 Build useful real-world projects  
+📈 Keep learning and improving
+
+---
+
+⭐ *Thanks for visiting my profile!*
